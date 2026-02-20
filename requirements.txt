@@ -1,0 +1,6 @@
+sounddevice>=0.4.10
+vosk>=0.3.52
+numpy>=1.25
+pydantic>=2.5
+PyQt6>=6.7.0
+pyqtgraph>=0.13.5
